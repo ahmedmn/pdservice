@@ -18,7 +18,7 @@ numpy==1.18.1
 pandas==1.0.0
 pathspec==0.5.9
 pypiwin32==223
-pyspark==2.3.1
+pyspark==2.3.2
 python-dateutil==2.8.0
 pytz==2019.3
 pywin32==227
